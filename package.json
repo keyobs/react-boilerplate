@@ -1,0 +1,25 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "react starter with typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keyobs/react-boilerplate.git"
+  },
+  "keywords": [
+    "react",
+    "boilerplate",
+    "config",
+    "starter"
+  ],
+  "author": "keyobs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keyobs/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/keyobs/react-boilerplate#readme"
+}
